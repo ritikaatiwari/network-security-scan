@@ -9,7 +9,7 @@ Perform a basic network reconnaissance scan using Nmap to identify open, closed,
 * Nmap 7.99
 
 ## Target
-
+ 
 * scanme.nmap.org (45.33.32.156)
 
 ## Command Used
